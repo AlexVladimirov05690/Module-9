@@ -1,29 +1,9 @@
-As we approach the third year of the COVID-19 pandemic, amid increasingly destructive climate change, news coverage of science can sometimes be a heavy read.
+The James Webb Space Telescope (JWST) is a space telescope developed by NASA with the European Space Agency (ESA), and the Canadian Space Agency (CSA). The telescope is named after James E. Webb,[7] who was the administrator of NASA from 1961 to 1968 and played an integral role in the Apollo program.[8][9] It is intended to succeed the Hubble Space Telescope as NASA's flagship mission in astrophysics.[10][11] JWST was launched on 25 December 2021 on Ariane flight VA256. It is designed to provide improved infrared resolution and sensitivity over Hubble, and will enable a broad range of investigations across the fields of astronomy and cosmology, including observations of some of the most distant events and objects in the Universe such as the formation of the first galaxies, and allowing detailed atmospheric characterization of potentially habitable exoplanets.
 
-But Earth is still an incredible place, bursting with promise and mystery. Research into the wonders of the natural world continue to show us how amazing life on our planet really is.
+The primary mirror of JWST, the Optical Telescope Element, consists of 18 hexagonal mirror segments made of gold-plated beryllium, which combine to create a 6.5 m (21 ft)-diameter mirror – considerably larger than Hubble's 2.4 m (7 ft 10 in) mirror. Unlike the Hubble telescope, which observes in the near ultraviolet, visible, and near infrared (0.1–1.0 μm) spectra, JWST will do so in a lower frequency range, from long-wavelength visible light (red) through mid-infrared (0.6–28.3 μm). This will enable it to observe high-redshift objects that are too old and too distant for Hubble.[12][13] The telescope must be kept very cold to observe in the infrared without interference, so it will be deployed in space near the Sun–Earth L2 Lagrange point, about 1.5 million kilometres (930,000 mi) from Earth (0.01 au – 3.9 times the average distance to the Moon).[14] A large sunshield made of silicon- and aluminum-coated Kapton will keep its mirror and instruments below 50 K (−223 °C; −370 °F).[15]
 
-Here are the top 12 animal discoveries that got our attention this year.
+The NASA Goddard Space Flight Center (GSFC) in Maryland managed the development and the Space Telescope Science Institute is operating Webb.[16] The prime contractor was Northrop Grumman.[17]
 
-‘Virgin births’ in a rare bird
-California condors—magnificent scavengers with a wingspan of over nine feet—almost went extinct by the middle of the 20th century, due to poisoning, poaching, and habitat destruction. In an ambitious bid to save them, all 22 condors were captured from the wild in 1987 and bred in captivity, before being released back to parts of California, Utah, Arizona, and Baja California. The total population is now more than 500.
+Development began in 1996 for a launch that was initially planned for 2007 with a US$500 million budget.[18] There were numerous delays and cost overruns, including a major redesign in 2005,[19] a ripped sunshield during a practice deployment, a recommendation from an independent review board, the COVID-19 pandemic,[20][21][22] issues with the Ariane 5 rocket[23] and the telescope itself, and communications issues between the telescope and the launch vehicle.[24] Concerns among the involved scientists and engineers about the launch and deployment of the telescope have been well-described.[25][26]
 
-Researchers have kept careful track of the birds’ breeding habits and genetics, and in October, they discovered that two female birds had given birth to young—without breeding. This is the first evidence of virgin birth, also known as parthenogenesis, in this species (and likely any non-domesticated bird). Scientists think that this form of reproduction is significantly more common in the animal world than thought, in part because it’s difficult to detect and rarely tracked.
-
-Although parthenogenesis could serve as a life raft for rare species when mates are scarce, it could also have downsides, such as reducing genetic diversity.
-
-Why did this happen? “We just don’t know,” says Oliver Ryder, director of conservation genetics at the San Diego Zoo Wildlife Alliance. “Will it happen again? I rather believe so.”
-
-COVID-19 found in wild deer, other animals
-The virus that causes COVID-19 doesn’t just afflict humans: It can also infect a wide variety of animal species.
-
-So far, researchers have found evidence of infection in captive or domesticated animals, including tigers, lions, gorillas, minks, snow leopards, domestic dogs, and domestic cats. Generally, the virus is thought to cause mild symptoms in other animals.
-
-But the virus also infects wild white-tailed deer in North America. Scientists in Iowa found active infections in about 80 percent of deer, according to research published in November on bioRxiv, a site that posts preliminary scientific findings. The analysis suggests that deer have been infected multiple times from people and are passing it to one another‚ though nobody knows how deer might have picked up the virus. This research is similar to a study published earlier in the year showing that 40 percent of 152 deer tested in three states—Michigan, Illinois, and New York—had antibodies to SARS-CoV-2.
-
-Having a reservoir of the virus in a common animal is concerning, since deer could potentially transmit it back to humans, researchers say.
-
-World’s smallest reptile discovered
-In February, researchers announced a new species of chameleon discovered in a rainforest in northern Madagascar, named Brookesia nana, or B. nana for short. This so-called nano-chameleon is about the size of a sunflower seed, and may be the smallest reptile on Earth.
-
-Finding such a tiny reptile raises interesting questions about the lower limits of body size in vertebrates. It also highlights the astonishing—and highly threatened—biodiversity of Madagascar, scientists say. Its discoverers suspect the chameleon will soon be listed as critically endangered.
-
+Construction was completed in late 2016, at which point an extensive testing phase began.[27][28] JWST was launched at 12:20 UTC on 25 December 2021 by an Ariane 5 launch vehicle from Kourou, French Guiana, on the northeastern coast of South America, and was released from the upper stage 27 minutes later.[29] The telescope was confirmed to be receiving power, and as of December 2021 is traveling to its target destination
