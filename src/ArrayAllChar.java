@@ -1,4 +1,5 @@
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -10,15 +11,29 @@ public class ArrayAllChar {
         this.source = source;
     }
 
-    public void finder() throws IOException {
-        FileInputStream fis = new FileInputStream(source);
-        int i;
+    public void finder() {
+        FileInputStream fis = null;
+        try {
+            fis = new FileInputStream(source);
+        } catch (FileNotFoundException e) {
+            System.out.println("Не найден исходный текст");
+        }
+        int i = 0;
         char sym;
-        while ((i = fis.read()) != -1) {
+        while (true) {
+            try {
+                if (fis != null && (i = fis.read()) == -1) break;
+            } catch (IOException e) {
+                System.out.println("Не читается исходный текст");
+            }
             sym = (char) i;
             compare(sym);
         }
-        fis.close();
+        try {
+            fis.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     private void compare(char symbol) {
